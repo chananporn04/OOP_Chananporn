@@ -1,0 +1,7 @@
+print("hello Python")
+print("ชนันพร พิมพ์เสนา")
+print("ใบมิ้นท์")
+print("18")
+print("4")
+print("67319010004")
+print("ดูซีรีส์")
