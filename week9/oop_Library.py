@@ -18,7 +18,7 @@ class Library:
         for show_book in self.bookname:
             print(show_book)
     def find_book(self):
-        bookname = str(input('ค้นหาชื่อ:'))
+        bookname = str(input('ค้นหาชื่อ    :'))
         i = 0
         for i in self.bookname:
             if bookname == i['bname']:
