@@ -21,7 +21,7 @@ class Library:
         bookname = str(input('ค้นหาชื่อ:'))
         i = 0
         for i in self.bookname:
-            if bookname == i['bookname']:
+            if bookname == i['bname']:
                 print(i)
 lib1 = Library()
 lib1.add_book()
