@@ -12,7 +12,7 @@ while True:
        raise Exception
     else:
         sum += product
-        print (sum)
+        print (sum) 
  except  ZeroDivisionError:
     print('ราคาสินค้าต้องมากกว่า 0 ') 
  except ValueError:
